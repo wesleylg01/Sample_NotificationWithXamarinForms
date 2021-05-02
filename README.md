@@ -1,11 +1,17 @@
 # Sample_NotificationWithXamarinForms
-Exemplo de notificações locais utilizando Xamarin Forms - Sample of local notifcation with Xamarin Forms
+
+##Exemplo de notificações locais utilizando Xamarin Forms 
+
+##Sample of local notifcation with Xamarin Forms
+
 
 
 Para apresentar as notificaçõs locais utilizo o plugin Xam.Plugins.Notifier: https://github.com/edsnider/LocalNotificationsPlugin
 
 
+
 To show the local notifications the project use the this plugin Xam.Plugins.Notifier: https://github.com/edsnider/LocalNotificationsPlugin
+
 
 
 1° Passo instale o puglin
@@ -14,7 +20,10 @@ To show the local notifications the project use the this plugin Xam.Plugins.Noti
 
 3° Feito, agora seu app mostra notifações locais :)
 
+
 Para mais exemplos: https://github.com/edsnider/LocalNotificationsPlugin
+
+
 
 
 1° Install the Plugin
