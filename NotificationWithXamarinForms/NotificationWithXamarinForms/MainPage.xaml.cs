@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Plugin.LocalNotifications;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -13,6 +14,13 @@ namespace NotificationWithXamarinForms
         public MainPage()
         {
             InitializeComponent();
+        }
+
+        private void button_send_Clicked(object sender, EventArgs e)
+        {
+            var title = entry_title.Text;
+            var text = entry_text.Text;
+            CrossLocalNotifications.Current.Show(title, text);
         }
     }
 }

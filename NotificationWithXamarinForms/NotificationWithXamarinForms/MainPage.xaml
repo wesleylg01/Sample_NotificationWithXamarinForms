@@ -29,7 +29,9 @@
         <Button Text="Send Notification"
                 FontSize="18"
                 HorizontalOptions="CenterAndExpand"
-                VerticalOptions="StartAndExpand"/>
+                VerticalOptions="StartAndExpand"
+                x:Name="button_send"
+                Clicked="button_send_Clicked"/>
     </StackLayout>
 
 </ContentPage>
