@@ -1,8 +1,8 @@
 # Sample_NotificationWithXamarinForms
 
-##Exemplo de notificações locais utilizando Xamarin Forms 
+**Exemplo de notificações locais utilizando Xamarin Forms**
 
-##Sample of local notifcation with Xamarin Forms
+**Sample of local notifcation with Xamarin Forms**
 
 
 
